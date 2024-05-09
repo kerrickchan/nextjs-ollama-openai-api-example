@@ -1,0 +1,125 @@
+{
+  "contact": {
+    "location": "Kowloon, Hong Kong",
+    "mobile": "68067576",
+    "email": "oec88p@gmail.com",
+    "linkedin": "www.linkedin.com/in/oec88p",
+    "github": "github.com/kerrickchan",
+    "tableau": "public.tableau.com/app/profile/oec88p"
+  },
+  "topSkills": [
+    "Expo SDK",
+    "Apache Kafka",
+    "Microservices"
+  ],
+  "certifications": [
+    "Node.js Application Development (LFW211)",
+    "Certificate of Completion - Artificial Intelligence Technologist",
+    "Introduction to Protocol Buffers (LFS145)",
+    "Digital Illustration Drawing Certificate (Illustrating on iPad Procreate)"
+  ],
+  "name": "Eric C.",
+  "title": "Senior Developer",
+  "location": "香港特別行政區 九龍",
+  "summary": [
+    "Learning AWS Developer Associates 85% @ AWS Other Serverless Services",
+    "Next stop is Full Stack Developer",
+    "Tortoise is walking slower but still toward it's Goal ;)",
+    "Learning from Gaming, Computer Science and Business Intelligence but Attracted by Data Science."
+  ],
+  "experience": [
+    {
+      "company": "marketing company",
+      "position": "Senior Developer",
+      "duration": "2024 年 1 月 - Present (4 個月)",
+      "location": "Hong Kong SAR",
+      "responsibilities": [
+        "First Big Project",
+        "Work as Full Stack Developer for CMS, API Backend Developer with gRPC Micro-Service.",
+        "AI Integration Projects"
+      ]
+    },
+    {
+      "company": "YOOV",
+      "position": "Senior Software Engineer",
+      "duration": "2022 年 8 月 - 2023 年 9 月 (1 年 2 個月)",
+      "location": "Hong Kong SAR",
+      "responsibilities": [
+        "YOOV PLUS Workflow Maintenance",
+        "YOOV Project Mobile App",
+        "CRM Data Migration Utility",
+        "YOOV Eat Image Generation",
+        "YOOV Work AI Chatbot Enhancement"
+      ]
+    },
+    {
+      "company": "Soepay",
+      "position": "Analysis Programmer",
+      "duration": "2021 年 11 月 - 2022 年 5 月 (7 個月)",
+      "location": "Hong Kong SAR",
+      "responsibilities": [
+        "Maintain Merchant Web Portal",
+        "Develop Online Shop UI"
+      ]
+    },
+    {
+      "company": "Hospital Authority",
+      "position": "Information Technology Programmer",
+      "duration": "2020 年 11 月 - 2021 年 11 月 (1 年 1 個月)",
+      "location": "Kowloon Hospital, 382 Prince Edward Road West",
+      "responsibilities": [
+        "Develop NodeJS project for file comparison",
+        "UI enhancement on Roster System for Doctor",
+        "Tier 1, Tier 2, and Coordinator Support"
+      ]
+    },
+    {
+      "company": "Taste of Asia Group Limited",
+      "positions": [
+        {
+          "title": "Programmer",
+          "duration": "2019 年 8 月 - 2020 年 11 月 (1 年 4 個月)",
+          "location": "San Po Kong, Kowloon, Hong Kong",
+          "responsibilities": [
+            "Maintenance of Internal OMS and CMS for shop order items using C# .Net Framework.",
+            "add a new UI field with stored procedures logic in the database",
+            "Migrating data from the old system to ERP Cloud (M18, primary HCM)",
+            "Setup basic information of HCM",
+            "Develop Clocking API Project"
+          ]
+        },
+        {
+          "title": "IT Support Technician",
+          "duration": "2018 年 10 月 - 2019 年 7 月 (10 個月)",
+          "location": "San Po Kong, Kowloon, Hong Kong",
+          "responsibilities": [
+            "Support POS Menu update",
+            "Onsite shop troubleshooting problems",
+            "Desktop support in Office"
+          ]
+        }
+      ],
+      "totalDuration": "2 年 2 個月"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Middlesex University",
+      "degree": "Bachelor's degree",
+      "field": "Business Information System",
+      "duration": "(2022 - 2023)"
+    },
+    {
+      "institution": "Staffordshire University",
+      "degree": "Bachelor's degree",
+      "field": "Computer Science",
+      "duration": "(2013 年 9 月 - 2015 年 6 月)"
+    },
+    {
+      "institution": "Hong Kong Institute of Vocational Education",
+      "degree": "Higher disploma",
+      "field": "Mobile and Internet Game Development",
+      "duration": "(2009 - 2013)"
+    }
+  ]
+}
